@@ -1,0 +1,52 @@
+# Dependency directories
+node_modules/
+
+# Build artifacts
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.sublime-*
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Jest coverage
+coverage/
+
+# TypeScript configuration file
+tsconfig.json
+
+# Next.js build output
+.next/
+
+# Storybook
+.storybook-out/
+docs/storybook-static/
+
+# Mac-specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
