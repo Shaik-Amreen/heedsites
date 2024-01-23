@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/techloom/static/css/main.3f235946.css",
-    "main.js": "/techloom/static/js/main.d74c0758.js",
+    "main.css": "/techloom/static/css/main.9fa35f1a.css",
+    "main.js": "/techloom/static/js/main.157878a3.js",
     "static/js/787.0a8e026f.chunk.js": "/techloom/static/js/787.0a8e026f.chunk.js",
     "static/media/backgroundtechloom.jpeg": "/techloom/static/media/backgroundtechloom.acbed73773358537eacd.jpeg",
     "static/media/techloom3.jpeg": "/techloom/static/media/techloom3.5d04ca09674dc39235ab.jpeg",
@@ -11,12 +11,12 @@
     "static/media/logo.png": "/techloom/static/media/logo.cd659441a7e4573f6d6e.png",
     "static/media/techloomdark.png": "/techloom/static/media/techloomdark.b25f935ec798513950ad.png",
     "index.html": "/techloom/index.html",
-    "main.3f235946.css.map": "/techloom/static/css/main.3f235946.css.map",
-    "main.d74c0758.js.map": "/techloom/static/js/main.d74c0758.js.map",
+    "main.9fa35f1a.css.map": "/techloom/static/css/main.9fa35f1a.css.map",
+    "main.157878a3.js.map": "/techloom/static/js/main.157878a3.js.map",
     "787.0a8e026f.chunk.js.map": "/techloom/static/js/787.0a8e026f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f235946.css",
-    "static/js/main.d74c0758.js"
+    "static/css/main.9fa35f1a.css",
+    "static/js/main.157878a3.js"
   ]
 }
