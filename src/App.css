@@ -3,7 +3,7 @@
 
 }
 
-.logo{
+.logo {
   width: 50px;
   height: 50px;
 }
@@ -14,13 +14,17 @@
   top: 0;
   width: 100%;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 0.9);
   text-align: center;
   z-index: 100;
   padding: 1.3rem;
 
 }
 
+.services-heading {
+  font-weight: 800;
+  font-size: 2.5rem
+}
 
 
 .sub-body {}
@@ -157,6 +161,53 @@ background-color: rgba(255, 255, 255, 0.9);
 
 }
 
+.about-text {
+  font-size: 1.2rem;
+}
+
+@media screen and (max-width: 360px) {
+
+  .center {
+    height: 70vh;
+  }
+
+  .heading {
+    font-size: 38px
+  }
+
+  .services {
+    padding: 1rem;
+  }
+
+  .services-heading {
+    font-weight: 800;
+    font-size: 1.8rem;
+    margin-top: 2rem;
+  }
+
+  .about {
+    padding: 1rem;
+  }
+
+  .contact {
+    padding: 1rem;
+    padding-top: 3rem;
+  }
+
+  .about-text {
+    font-size: 1rem;
+    line-height: 30px;
+  }
+
+  .techloomImage{
+    width: 92vw;
+    margin-bottom: 3rem;
+  }
+
+
+
+}
+
 @media (min-width: 600px) {
   .heading {
     font-size: 65px
@@ -184,7 +235,7 @@ background-color: rgba(255, 255, 255, 0.9);
     line-height: 40px;
   }
 
-  .contact-text{
+  .contact-text {
     font-size: 1.2rem;
   }
 

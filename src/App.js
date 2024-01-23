@@ -94,7 +94,7 @@ function App() {
         <div className='services'>
 
 
-          <h1 style={{ fontWeight: "800", fontSize: "2.5rem" }}>Services we provide</h1>
+          <h1 className='services-heading'>Services we provide</h1>
 
           <div className='row justify-content-center'>
             <div className='col-sm-12 col-lg-6 ' >
@@ -130,8 +130,8 @@ function App() {
 
           <div className='row align-items-center'>
             <div className='col-sm-12 col-lg-6'>
-              <h1 style={{ fontWeight: "800", fontSize: "2.5rem" }}>About us</h1><br></br>
-              <span style={{ fontSize: "1.2rem" }}>Techloom is start-up company . With a team of highly skilled professionals, we specialize in creating innovative and user-friendly websites and mobile apps that empower businesses to thrive in the digital world.
+              <h1 className='services-heading'>About us</h1><br></br>
+              <span className='about-text'>Techloom is start-up company . With a team of highly skilled professionals, we specialize in creating innovative and user-friendly websites and mobile apps that empower businesses to thrive in the digital world.
                 <br></br><br></br>    At Techloom, we believe in the power of technology to transform businesses. Our goal is to provide our clients with cutting-edge web and mobile solutions that not only meet their unique requirements but also exceed their expectations. With our expertise in web and app development, we help businesses establish a strong online presence and drive growth through effective digital strategies.<br /><br /><br /></span>
             </div>
             <div className='col-sm-12 col-lg-6'>
