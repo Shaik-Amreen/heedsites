@@ -53,7 +53,7 @@ function App() {
           {/* <h5 style={{
             fontSize: "1.9rem",
             "fontWeight": "800"
-          }}>Techloom</h5> */}
+          }}>HeedSites</h5> */}
           <img className='logo' src={require('./assets/techloomdark.png')} />
 
         </div>
@@ -67,7 +67,7 @@ function App() {
       <div className='background' style={{ textAlign: "center", color: "white" }}>
         <div className='content'>
           <div style={{ fontSize: "1.9rem" }}>
-            <img className='logo' src={require('./assets/logo.png')} /><div>Techloom</div></div>
+            <img className='logo' src={require('./assets/logo.png')} /><div>HeedSites</div></div>
 
           <div className='center'>
             <div>
@@ -86,7 +86,7 @@ function App() {
 
 
         <div className='sub-text1'>
-          "Are you looking for top-notch web and app development services? Look no further than Techloom. Our team of skilled developers is dedicated to creating innovative and user-friendly websites that will help your business stand out online. With a focus on quality and customer satisfaction, Techloom is the partner you need to take your web presence to the next level."
+          "Are you looking for top-notch web and app development services? Look no further than HeedSites. Our team of skilled developers is dedicated to creating innovative and user-friendly websites that will help your business stand out online. With a focus on quality and customer satisfaction, HeedSites is the partner you need to take your web presence to the next level."
         </div>
 
 
@@ -131,8 +131,8 @@ function App() {
           <div className='row align-items-center'>
             <div className='col-sm-12 col-lg-6'>
               <h1 className='services-heading'>About us</h1><br></br>
-              <span className='about-text'>Techloom is start-up company . With a team of highly skilled professionals, we specialize in creating innovative and user-friendly websites and mobile apps that empower businesses to thrive in the digital world.
-                <br></br><br></br>    At Techloom, we believe in the power of technology to transform businesses. Our goal is to provide our clients with cutting-edge web and mobile solutions that not only meet their unique requirements but also exceed their expectations. With our expertise in web and app development, we help businesses establish a strong online presence and drive growth through effective digital strategies.<br /><br /><br /></span>
+              <span className='about-text'>HeedSites is start-up company . With a team of highly skilled professionals, we specialize in creating innovative and user-friendly websites and mobile apps that empower businesses to thrive in the digital world.
+                <br></br><br></br>    At HeedSites, we believe in the power of technology to transform businesses. Our goal is to provide our clients with cutting-edge web and mobile solutions that not only meet their unique requirements but also exceed their expectations. With our expertise in web and app development, we help businesses establish a strong online presence and drive growth through effective digital strategies.<br /><br /><br /></span>
             </div>
             <div className='col-sm-12 col-lg-6'>
               <img src={require('./assets/Techloom.jpeg')} className="techloomImage" style={{ borderRadius: "13px" }} />
@@ -183,7 +183,7 @@ function App() {
         </div>
 
         <div className='footer'>
-          <img className='logo' src={require('./assets/logo.png')} /><div>Techloom</div>
+          <img className='logo' src={require('./assets/logo.png')} /><div>HeedSites</div>
         </div>
 
       </div>
